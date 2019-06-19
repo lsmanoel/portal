@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="-1441.1047"
-     inkscape:cy="435.60919"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-1359.8907"
+     inkscape:cy="-169.97777"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1461,7 +1461,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-360.69894"
-       y="204.55161"
+       y="206.66824"
        id="text5972-4"
        inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
        inkscape:export-xdpi="95.400002"
@@ -1469,7 +1469,7 @@
          sodipodi:role="line"
          id="tspan5970-7"
          x="-360.69894"
-         y="204.55161"
+         y="206.66824"
          style="fill:#ff0000;stroke-width:0.26458332">L2</tspan></text>
     <text
        xml:space="preserve"
@@ -1579,5 +1579,1814 @@
          x="-441.87668"
          y="250.78282"
          style="fill:#ff0000;stroke-width:0.26458332">Ultrasonic Sensor</tspan></text>
+    <rect
+       ry="0.0088387588"
+       y="350.13943"
+       x="-458.00891"
+       height="0.017677518"
+       width="139.88921"
+       id="rect695-6-3"
+       style="fill:#000000;stroke:#1b6000;stroke-width:0.27698502;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <g
+       id="g1721-6"
+       transform="translate(-508.93995,175.01696)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002">
+      <rect
+         ry="0.34862101"
+         y="164.56511"
+         x="43.258743"
+         height="15.301634"
+         width="2.0717926"
+         id="rect12-7"
+         style="fill:#666666;stroke:#1b6000;stroke-width:0.19731206;stroke-opacity:1" />
+      <rect
+         ry="0.35252818"
+         y="164.59874"
+         x="45.296898"
+         height="6.1471982"
+         width="1.6036186"
+         id="rect33-53"
+         style="fill:#000080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         ry="0.34708837"
+         y="165.1279"
+         x="46.900517"
+         height="1.8708861"
+         width="2.1381562"
+         id="rect52-5"
+         style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         ry="0.34708837"
+         y="168.3459"
+         x="46.900517"
+         height="1.8708861"
+         width="2.1381562"
+         id="rect52-7-6"
+         style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1" />
+    </g>
+    <rect
+       ry="0.0090059917"
+       y="354.8837"
+       x="-465.68115"
+       height="0.018011983"
+       width="146.74898"
+       id="rect695-2"
+       style="fill:#000000;stroke:#1b6000;stroke-width:0.28636625;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -328.64555,352.50788 c 0.9449,-2.55134 0.5669,-2.55134 0.5669,-2.55134 l 9.9589,0.18289 -0.3205,2.17946 z"
+       id="path5968-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <g
+       id="g1728-1"
+       transform="translate(-415.51825,175.02311)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002">
+      <g
+         transform="rotate(-180,66.803279,170.72978)"
+         id="g93-2">
+        <rect
+           style="fill:#000080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect33-5-7"
+           width="1.6036186"
+           height="6.1471982"
+           x="39.092281"
+           y="170.7534"
+           ry="0.35252818" />
+        <rect
+           style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect52-3-0"
+           width="2.1381562"
+           height="1.8708861"
+           x="40.6959"
+           y="171.28256"
+           ry="0.34708837" />
+        <rect
+           style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect52-7-5-9"
+           width="2.1381562"
+           height="1.8708861"
+           x="40.6959"
+           y="174.50056"
+           ry="0.34708837" />
+      </g>
+      <rect
+         ry="0.34862104"
+         y="164.55896"
+         x="94.514275"
+         height="15.301634"
+         width="2.0717926"
+         id="rect12-36-3"
+         style="fill:#666666;stroke:#1b6000;stroke-width:0.19731206;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.37368608;stroke-opacity:1"
+       id="rect714-60"
+       width="38.119255"
+       height="0.4009043"
+       x="-440.96719"
+       y="361.37582"
+       ry="0.019897461"
+       transform="rotate(2.6555722)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <rect
+       style="fill:#ff0000;stroke:#ff0d00;stroke-width:0.37368608;stroke-opacity:1"
+       id="rect714-6-6"
+       width="38.119255"
+       height="0.4009043"
+       x="-472.72516"
+       y="-322.93427"
+       ry="0.019897461"
+       transform="matrix(0.9989261,-0.04633189,-0.04633189,-0.9989261,0,0)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <rect
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.48766649;stroke-opacity:1"
+       id="rect714-2-2"
+       width="64.7882"
+       height="0.40171793"
+       x="353.67307"
+       y="332.12555"
+       ry="0.019937843"
+       transform="matrix(-0.99962837,0.02726017,0.07864231,0.9969029,0,0)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <rect
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.48766649;stroke-opacity:1"
+       id="rect714-2-3-9"
+       width="64.7882"
+       height="0.40171793"
+       x="299.70963"
+       y="-353.80811"
+       ry="0.019937843"
+       transform="matrix(-0.99962837,-0.0272601,0.07864231,-0.9969029,0,0)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <rect
+       ry="0.0088387588"
+       y="352.4007"
+       x="-460.90332"
+       height="0.017677518"
+       width="139.88921"
+       id="rect695-6-1-2"
+       style="fill:#000000;stroke:#1b6000;stroke-width:0.27698502;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -446.87575,350.31872 c -3.4077,1.93771 -3.4077,1.93771 -3.4077,1.93771 l -10.6199,0.14426 2.8944,-2.24357 z"
+       id="path5828-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25041693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -439.66285,352.76011 c -3.4099,1.73463 -3.4099,1.73463 -3.4099,1.73463 l -10.6267,0.12915 2.8962,-2.00845 z"
+       id="path5828-6-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.24640092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -425.31745,350.23513 c -3.1644,1.80969 -3.1644,1.80969 -3.1644,1.80969 l -9.8618,0.13473 2.6877,-2.09536 z"
+       id="path5828-6-3-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.29220074px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -417.04955,352.57225 c -3.4686,2.32178 -3.4686,2.32178 -3.4686,2.32178 l -10.8099,0.17286 2.9462,-2.68829 z"
+       id="path5828-6-3-2-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -417.04955,352.57225 c 2.9813,-2.52121 2.9341,-2.47397 2.9341,-2.47397 l 10.5833,0.0945 -2.5986,2.07886 -10.9188,0.30061"
+       id="path5905-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -408.88645,354.9017 c 2.7557,-2.63006 2.7557,-2.63006 2.7557,-2.63006 l 11.0558,0.0473 h 0.047 l -2.4997,2.58281 v 0 z"
+       id="path5911-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.23271793px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -395.05705,352.33002 c 2.6477,-2.11773 2.6477,-2.11773 2.6477,-2.11773 l 10.6224,0.038 h 0.045 l -2.4018,2.07968 v 0 z"
+       id="path5911-1-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25329301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -386.22205,354.89955 c 2.6387,-2.5173 2.6387,-2.5173 2.6387,-2.5173 l 10.5863,0.0452 h 0.045 l -2.3937,2.47207 v 0 z"
+       id="path5911-1-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -372.95195,352.42745 c 1.5798,-2.57645 1.7135,-2.17554 1.7135,-2.17554 l 10.8244,-0.13364 v 0 l -1.3364,2.40543 v 0 z"
+       id="path5960-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -363.45055,354.9017 1.7001,-2.378 10.946,-0.11031 -1.2872,2.48831 z"
+       id="path5962-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -350.80445,352.41339 c 1.5592,-2.45685 1.4647,-2.45685 1.4647,-2.45685 l 10.8668,0.18899 -1.1339,2.17336 z"
+       id="path5964-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -340.73265,354.9017 c 1.1258,-2.58281 1.1258,-2.58281 1.1258,-2.58281 l 10.9613,0.18899 -0.7282,2.39382 z"
+       id="path5966-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-440.95923"
+       y="337.94305"
+       id="text5972-47"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-8"
+         x="-440.95923"
+         y="337.94305"
+         style="fill:#ff0000;stroke-width:0.26458332">L1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-361.50183"
+       y="338.09656"
+       id="text5972-4-4"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-7-50"
+         x="-361.50183"
+         y="338.09656"
+         style="fill:#ff0000;stroke-width:0.26458332">L2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-401.14807"
+       y="367.04367"
+       id="text5972-4-6-3"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-7-5-6"
+         x="-401.14807"
+         y="367.04367"
+         style="fill:#ff0000;stroke-width:0.26458332">L3</tspan></text>
+    <rect
+       ry="0.0092176422"
+       y="357.01978"
+       x="-463.83423"
+       height="0.018435284"
+       width="141.13203"
+       id="rect695-69-1"
+       style="fill:#fc0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28411311;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -463.08025,355.41287 c -3.4452,2.45083 -3.4452,2.45083 -3.4452,2.45083"
+       id="path6025-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -321.53315,355.41287 c -1.5013,3.95248 -1.5013,3.95248 -1.5013,3.95248"
+       id="path6025-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-2.3708103"
+       inkscape:transform-center-y="0.99338741"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-442.67957"
+       y="382.21109"
+       id="text6202-6-0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan6200-8-6"
+         x="-442.67957"
+         y="382.21109"
+         style="fill:#ff0000;stroke-width:0.26458332">Ultrasonic Sensor</tspan></text>
+    <g
+       id="g5056">
+      <g
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         transform="translate(-437.41195,220.35835)"
+         id="g1866-6">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-7-1"
+           cx="20.798183"
+           cy="121.74123"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-9-8"
+           cx="22.669075"
+           cy="121.87485"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-7"
+           cx="30.602362"
+           cy="119.53303"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-1-9"
+           cx="30.468725"
+           cy="124.61115"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-2"
+           cx="38.947674"
+           cy="122.62008"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-0"
+           cx="40.818565"
+           cy="122.75369"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1855-23"
+           width="6.9274302"
+           height="2.6272285"
+           x="26.080357"
+           y="116.70535"
+           ry="0.019897461" />
+        <rect
+           style="fill:#ffffff;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1832-7"
+           width="7.7485118"
+           height="3.2127976"
+           x="23.808565"
+           y="114.29436"
+           ry="0.019897461" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1837-5"
+           cx="27.304842"
+           cy="116.08976"
+           rx="0.66145831"
+           ry="0.8504464" />
+      </g>
+      <rect
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         y="331.86566"
+         x="-423.13464"
+         height="19.404955"
+         width="30.725245"
+         id="rect6136-32"
+         style="fill:none;fill-opacity:1;stroke:#2cff00;stroke-width:1.00534201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         id="text1933-1"
+         y="331.18359"
+         x="-392.50354"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#00ff00;stroke-width:0.26458332"
+           y="331.18359"
+           x="-392.50354"
+           id="tspan1931-5"
+           sodipodi:role="line">id:1</tspan></text>
+    </g>
+    <g
+       id="g4988"
+       transform="translate(-51.491865,31.378542)">
+      <g
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         transform="translate(-326.65793,134.66139)"
+         id="g1866-2-5">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-7-0-4"
+           cx="20.798183"
+           cy="121.74123"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-9-2-7"
+           cx="22.669075"
+           cy="121.87485"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-3-6"
+           cx="30.602362"
+           cy="119.53303"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-1-7-5"
+           cx="30.468725"
+           cy="124.61115"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-5-6"
+           cx="38.947674"
+           cy="122.62008"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-92-9"
+           cx="40.818565"
+           cy="122.75369"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1855-2-3"
+           width="6.9274302"
+           height="2.6272285"
+           x="26.080357"
+           y="116.70535"
+           ry="0.019897461" />
+        <rect
+           style="fill:#ffffff;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1832-8-7"
+           width="7.7485118"
+           height="3.2127976"
+           x="23.808565"
+           y="114.29436"
+           ry="0.019897461" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1837-9-4"
+           cx="27.304842"
+           cy="116.08976"
+           rx="0.66145831"
+           ry="0.8504464" />
+      </g>
+      <text
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         id="text1956-5"
+         y="244.58311"
+         x="-282.21646"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#00ff00;stroke-width:0.26458332"
+           y="244.58311"
+           x="-282.21646"
+           id="tspan1954-2"
+           sodipodi:role="line">id:2</tspan></text>
+      <rect
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         y="245.29805"
+         x="-309.97784"
+         height="19.456709"
+         width="27.569765"
+         id="rect6136-3-5"
+         style="fill:none;fill-opacity:1;stroke:#2cff00;stroke-width:0.95358866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       ry="0.0088387588"
+       y="472.90799"
+       x="-458.00891"
+       height="0.017677518"
+       width="139.88921"
+       id="rect695-6-3-4"
+       style="fill:#000000;stroke:#1b6000;stroke-width:0.27698502;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <g
+       id="g1721-6-7"
+       transform="translate(-508.93996,297.78439)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002">
+      <rect
+         ry="0.34862101"
+         y="164.56511"
+         x="43.258743"
+         height="15.301634"
+         width="2.0717926"
+         id="rect12-7-4"
+         style="fill:#666666;stroke:#1b6000;stroke-width:0.19731206;stroke-opacity:1" />
+      <rect
+         ry="0.35252818"
+         y="164.59874"
+         x="45.296898"
+         height="6.1471982"
+         width="1.6036186"
+         id="rect33-53-4"
+         style="fill:#000080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         ry="0.34708837"
+         y="165.1279"
+         x="46.900517"
+         height="1.8708861"
+         width="2.1381562"
+         id="rect52-5-3"
+         style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         ry="0.34708837"
+         y="168.3459"
+         x="46.900517"
+         height="1.8708861"
+         width="2.1381562"
+         id="rect52-7-6-0"
+         style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1" />
+    </g>
+    <rect
+       ry="0.0090059917"
+       y="477.65225"
+       x="-465.68115"
+       height="0.018011983"
+       width="146.74898"
+       id="rect695-2-7"
+       style="fill:#000000;stroke:#1b6000;stroke-width:0.28636625;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -328.64555,475.27532 c 0.9449,-2.55134 0.5669,-2.55134 0.5669,-2.55134 l 9.9589,0.18289 -0.3205,2.17946 z"
+       id="path5968-9-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <g
+       id="g1728-1-6"
+       transform="translate(-415.51825,297.79054)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002">
+      <g
+         transform="rotate(-180,66.803279,170.72978)"
+         id="g93-2-8">
+        <rect
+           style="fill:#000080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect33-5-7-8"
+           width="1.6036186"
+           height="6.1471982"
+           x="39.092281"
+           y="170.7534"
+           ry="0.35252818" />
+        <rect
+           style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect52-3-0-4"
+           width="2.1381562"
+           height="1.8708861"
+           x="40.6959"
+           y="171.28256"
+           ry="0.34708837" />
+        <rect
+           style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect52-7-5-9-3"
+           width="2.1381562"
+           height="1.8708861"
+           x="40.6959"
+           y="174.50056"
+           ry="0.34708837" />
+      </g>
+      <rect
+         ry="0.34862104"
+         y="164.55896"
+         x="94.514275"
+         height="15.301634"
+         width="2.0717926"
+         id="rect12-36-3-1"
+         style="fill:#666666;stroke:#1b6000;stroke-width:0.19731206;stroke-opacity:1" />
+    </g>
+    <rect
+       ry="0.0088387588"
+       y="475.16925"
+       x="-460.90332"
+       height="0.017677518"
+       width="139.88921"
+       id="rect695-6-1-2-6"
+       style="fill:#000000;stroke:#1b6000;stroke-width:0.27698502;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -446.87575,473.08616 c -3.4077,1.93771 -3.4077,1.93771 -3.4077,1.93771 l -10.6199,0.14426 2.8944,-2.24357 z"
+       id="path5828-2-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25041693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -439.66285,475.52755 c -3.4099,1.73463 -3.4099,1.73463 -3.4099,1.73463 l -10.6267,0.12915 2.8962,-2.00845 z"
+       id="path5828-6-8-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.24640092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -425.31745,473.00257 c -3.1644,1.80969 -3.1644,1.80969 -3.1644,1.80969 l -9.86181,0.13473 2.68771,-2.09536 z"
+       id="path5828-6-3-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.29220074px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -417.04955,475.33969 c -3.4686,2.32178 -3.4686,2.32178 -3.4686,2.32178 l -10.8099,0.17286 2.9462,-2.68829 z"
+       id="path5828-6-3-2-7-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -417.04955,475.33969 c 2.9813,-2.52121 2.93409,-2.47397 2.93409,-2.47397 l 10.58331,0.0945 -2.5986,2.07886 -10.9188,0.30061"
+       id="path5905-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -408.88646,477.66914 c 2.75571,-2.63006 2.75571,-2.63006 2.75571,-2.63006 l 11.0558,0.0473 h 0.047 l -2.4997,2.58281 v 0 z"
+       id="path5911-6-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.23271795px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -395.05705,475.09746 c 2.6477,-2.11773 2.6477,-2.11773 2.6477,-2.11773 l 10.6224,0.038 h 0.045 l -2.40181,2.07968 v 0 z"
+       id="path5911-1-1-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25329301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -386.22205,477.66699 c 2.6387,-2.5173 2.6387,-2.5173 2.6387,-2.5173 l 10.5863,0.0452 h 0.045 l -2.3937,2.47207 v 0 z"
+       id="path5911-1-5-2-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -372.95195,475.19489 c 1.5798,-2.57645 1.7135,-2.17554 1.7135,-2.17554 l 10.8244,-0.13364 v 0 l -1.3364,2.40543 v 0 z"
+       id="path5960-9-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -363.45055,477.66914 1.7001,-2.378 10.946,-0.11031 -1.2872,2.48831 z"
+       id="path5962-3-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -350.80445,475.18083 c 1.5592,-2.45685 1.4647,-2.45685 1.4647,-2.45685 l 10.8668,0.18899 -1.1339,2.17336 z"
+       id="path5964-1-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -340.73265,477.66914 c 1.1258,-2.58281 1.1258,-2.58281 1.1258,-2.58281 l 10.9613,0.18899 -0.7282,2.39382 z"
+       id="path5966-9-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <rect
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.37368608;stroke-opacity:1"
+       id="rect714-60-4"
+       width="38.119255"
+       height="0.4009043"
+       x="347.17548"
+       y="447.71811"
+       ry="0.019897461"
+       transform="matrix(-0.9989261,0.04633189,0.04633189,0.9989261,0,0)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <rect
+       style="fill:#ff0000;stroke:#ff0d00;stroke-width:0.37368608;stroke-opacity:1"
+       id="rect714-6-6-9"
+       width="38.119255"
+       height="0.4009043"
+       x="304.04691"
+       y="-481.85995"
+       ry="0.019897461"
+       transform="rotate(-177.34443)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-355.02588"
+       y="461.24078"
+       id="text5972-47-1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-8-7"
+         x="-355.02588"
+         y="461.24078"
+         style="fill:#ff0000;stroke-width:0.26458332">L1</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.48766649;stroke-opacity:1"
+       id="rect714-2-2-2"
+       width="64.7882"
+       height="0.40171793"
+       x="-419.93478"
+       y="476.42581"
+       ry="0.019937843"
+       transform="matrix(0.99962837,0.02726017,-0.07864231,0.9969029,0,0)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <rect
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.48766649;stroke-opacity:1"
+       id="rect714-2-3-9-0"
+       width="64.7882"
+       height="0.40171793"
+       x="-493.22684"
+       y="-455.27151"
+       ry="0.019937843"
+       transform="matrix(0.99962837,-0.0272601,-0.07864231,-0.9969029,0,0)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-435.76749"
+       y="459.80676"
+       id="text5972-4-4-2"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-7-50-7"
+         x="-435.76749"
+         y="459.80676"
+         style="fill:#ff0000;stroke-width:0.26458332">L2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-401.14807"
+       y="489.81223"
+       id="text5972-4-6-3-2"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-7-5-6-2"
+         x="-401.14807"
+         y="489.81223"
+         style="fill:#ff0000;stroke-width:0.26458332">L3</tspan></text>
+    <rect
+       ry="0.0092176422"
+       y="479.78833"
+       x="-463.83423"
+       height="0.018435284"
+       width="141.13203"
+       id="rect695-69-1-6"
+       style="fill:#fc0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28411311;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -463.08025,478.18031 c -3.4452,2.45083 -3.4452,2.45083 -3.4452,2.45083"
+       id="path6025-0-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -321.53315,478.18031 c -1.5013,3.95248 -1.5013,3.95248 -1.5013,3.95248"
+       id="path6025-3-6-0"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-2.3708103"
+       inkscape:transform-center-y="0.99338741"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-442.67957"
+       y="504.97964"
+       id="text6202-6-0-6"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan6200-8-6-1"
+         x="-442.67957"
+         y="504.97964"
+         style="fill:#ff0000;stroke-width:0.26458332">Ultrasonic Sensor</tspan></text>
+    <g
+       transform="translate(54.067052,64.958964)"
+       id="g5056-5">
+      <g
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         transform="translate(-437.41195,220.35835)"
+         id="g1866-6-9">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-7-1-4"
+           cx="20.798183"
+           cy="121.74123"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-9-8-9"
+           cx="22.669075"
+           cy="121.87485"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-7-0"
+           cx="30.602362"
+           cy="119.53303"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-1-9-9"
+           cx="30.468725"
+           cy="124.61115"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-2-1"
+           cx="38.947674"
+           cy="122.62008"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-0-7"
+           cx="40.818565"
+           cy="122.75369"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1855-23-7"
+           width="6.9274302"
+           height="2.6272285"
+           x="26.080357"
+           y="116.70535"
+           ry="0.019897461" />
+        <rect
+           style="fill:#ffffff;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1832-7-1"
+           width="7.7485118"
+           height="3.2127976"
+           x="23.808565"
+           y="114.29436"
+           ry="0.019897461" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1837-5-1"
+           cx="27.304842"
+           cy="116.08976"
+           rx="0.66145831"
+           ry="0.8504464" />
+      </g>
+      <rect
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         y="331.86566"
+         x="-423.13464"
+         height="19.404955"
+         width="30.725245"
+         id="rect6136-32-5"
+         style="fill:none;fill-opacity:1;stroke:#2cff00;stroke-width:1.00534201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         id="text1933-1-9"
+         y="331.18359"
+         x="-392.50354"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#00ff00;stroke-width:0.26458332"
+           y="331.18359"
+           x="-392.50354"
+           id="tspan1931-5-7"
+           sodipodi:role="line">id:1</tspan></text>
+    </g>
+    <g
+       id="g4988-7"
+       transform="translate(-83.575705,205.77385)">
+      <g
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         transform="translate(-326.65793,134.66139)"
+         id="g1866-2-5-6">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-7-0-4-7"
+           cx="20.798183"
+           cy="121.74123"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-9-2-7-3"
+           cx="22.669075"
+           cy="121.87485"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-3-6-6"
+           cx="30.602362"
+           cy="119.53303"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-1-7-5-5"
+           cx="30.468725"
+           cy="124.61115"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-5-6-6"
+           cx="38.947674"
+           cy="122.62008"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-92-9-3"
+           cx="40.818565"
+           cy="122.75369"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1855-2-3-9"
+           width="6.9274302"
+           height="2.6272285"
+           x="26.080357"
+           y="116.70535"
+           ry="0.019897461" />
+        <rect
+           style="fill:#ffffff;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1832-8-7-4"
+           width="7.7485118"
+           height="3.2127976"
+           x="23.808565"
+           y="114.29436"
+           ry="0.019897461" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1837-9-4-8"
+           cx="27.304842"
+           cy="116.08976"
+           rx="0.66145831"
+           ry="0.8504464" />
+      </g>
+      <text
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         id="text1956-5-1"
+         y="244.58311"
+         x="-282.21646"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#00ff00;stroke-width:0.26458332"
+           y="244.58311"
+           x="-282.21646"
+           id="tspan1954-2-2"
+           sodipodi:role="line">id:2</tspan></text>
+      <rect
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         y="245.29805"
+         x="-309.97784"
+         height="19.456709"
+         width="27.569765"
+         id="rect6136-3-5-9"
+         style="fill:none;fill-opacity:1;stroke:#2cff00;stroke-width:0.95358866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       ry="0.0088387588"
+       y="595.67651"
+       x="-458.00894"
+       height="0.017677518"
+       width="139.88921"
+       id="rect695-6-3-4-3"
+       style="fill:#000000;stroke:#1b6000;stroke-width:0.27698502;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <g
+       id="g1721-6-7-9"
+       transform="translate(-508.93995,420.55182)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002">
+      <rect
+         ry="0.34862101"
+         y="164.56511"
+         x="43.258743"
+         height="15.301634"
+         width="2.0717926"
+         id="rect12-7-4-0"
+         style="fill:#666666;stroke:#1b6000;stroke-width:0.19731206;stroke-opacity:1" />
+      <rect
+         ry="0.35252818"
+         y="164.59874"
+         x="45.296898"
+         height="6.1471982"
+         width="1.6036186"
+         id="rect33-53-4-8"
+         style="fill:#000080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         ry="0.34708837"
+         y="165.1279"
+         x="46.900517"
+         height="1.8708861"
+         width="2.1381562"
+         id="rect52-5-3-8"
+         style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         ry="0.34708837"
+         y="168.3459"
+         x="46.900517"
+         height="1.8708861"
+         width="2.1381562"
+         id="rect52-7-6-0-5"
+         style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1" />
+    </g>
+    <rect
+       ry="0.0090059917"
+       y="600.42078"
+       x="-465.68118"
+       height="0.018011983"
+       width="146.74898"
+       id="rect695-2-7-0"
+       style="fill:#000000;stroke:#1b6000;stroke-width:0.28636625;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -328.64554,598.04276 c 0.9449,-2.55134 0.5669,-2.55134 0.5669,-2.55134 l 9.9589,0.18289 -0.3205,2.17946 z"
+       id="path5968-9-8-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <g
+       id="g1728-1-6-6"
+       transform="translate(-415.51825,420.55799)"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002">
+      <g
+         transform="rotate(-180,66.803279,170.72978)"
+         id="g93-2-8-3">
+        <rect
+           style="fill:#000080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect33-5-7-8-8"
+           width="1.6036186"
+           height="6.1471982"
+           x="39.092281"
+           y="170.7534"
+           ry="0.35252818" />
+        <rect
+           style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect52-3-0-4-5"
+           width="2.1381562"
+           height="1.8708861"
+           x="40.6959"
+           y="171.28256"
+           ry="0.34708837" />
+        <rect
+           style="fill:#808080;stroke:#1b6000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect52-7-5-9-3-6"
+           width="2.1381562"
+           height="1.8708861"
+           x="40.6959"
+           y="174.50056"
+           ry="0.34708837" />
+      </g>
+      <rect
+         ry="0.34862104"
+         y="164.55896"
+         x="94.514275"
+         height="15.301634"
+         width="2.0717926"
+         id="rect12-36-3-1-1"
+         style="fill:#666666;stroke:#1b6000;stroke-width:0.19731206;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5540" />
+    <g
+       id="g5563"
+       transform="matrix(0.84205095,0,0,1,-72.224968,0)">
+      <rect
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:0.37368608;stroke-opacity:1"
+         id="rect714-60-4-1"
+         width="38.119255"
+         height="0.4009043"
+         x="-429.59656"
+         y="606.64929"
+         ry="0.019897461"
+         transform="rotate(2.6555722)"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-ydpi="95.400002" />
+      <rect
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         transform="matrix(0.9989261,-0.04633189,-0.04633189,-0.9989261,0,0)"
+         ry="0.019897461"
+         y="-568.20557"
+         x="-484.09573"
+         height="0.4009043"
+         width="38.119255"
+         id="rect714-6-6-9-5"
+         style="fill:#ff0000;stroke:#ff0d00;stroke-width:0.37368608;stroke-opacity:1" />
+    </g>
+    <rect
+       ry="0.0088387588"
+       y="597.93781"
+       x="-460.90335"
+       height="0.017677518"
+       width="139.88921"
+       id="rect695-6-1-2-6-4"
+       style="fill:#000000;stroke:#1b6000;stroke-width:0.27698502;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -446.87575,595.8536 c -3.4077,1.93771 -3.4077,1.93771 -3.4077,1.93771 l -10.6199,0.14426 2.8944,-2.24357 z"
+       id="path5828-2-8-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25041693px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -439.66285,598.29499 c -3.4099,1.73463 -3.4099,1.73463 -3.4099,1.73463 l -10.6267,0.12915 2.8962,-2.00845 z"
+       id="path5828-6-8-9-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.24640092px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -425.31745,595.77001 c -3.1644,1.80969 -3.1644,1.80969 -3.1644,1.80969 l -9.86181,0.13473 2.68771,-2.09536 z"
+       id="path5828-6-3-9-2-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.29220074px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -417.04955,598.10713 c -3.4686,2.32178 -3.4686,2.32178 -3.4686,2.32178 l -10.8099,0.17286 2.9462,-2.68829 z"
+       id="path5828-6-3-2-7-6-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -417.04955,598.10713 c 2.9813,-2.52121 2.93409,-2.47397 2.93409,-2.47397 l 10.58331,0.0945 -2.5986,2.07886 -10.9188,0.30061"
+       id="path5905-3-6-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -408.88646,600.43658 c 2.75571,-2.63006 2.75571,-2.63006 2.75571,-2.63006 l 11.0558,0.0473 h 0.047 l -2.4997,2.58281 v 0 z"
+       id="path5911-6-4-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.23271796px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -395.05705,597.8649 c 2.6477,-2.11773 2.6477,-2.11773 2.6477,-2.11773 l 10.6224,0.038 h 0.045 l -2.40181,2.07968 v 0 z"
+       id="path5911-1-1-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25329301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -386.22205,600.43443 c 2.6387,-2.5173 2.6387,-2.5173 2.6387,-2.5173 l 10.5863,0.0452 h 0.045 l -2.3937,2.47207 v 0 z"
+       id="path5911-1-5-2-5-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -372.95195,597.96233 c 1.5798,-2.57645 1.7135,-2.17554 1.7135,-2.17554 l 10.82441,-0.13364 v 0 l -1.3364,2.40543 v 0 z"
+       id="path5960-9-0-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -363.45054,600.43658 1.7001,-2.378 10.946,-0.11031 -1.2872,2.48831 z"
+       id="path5962-3-4-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -350.80444,597.94827 c 1.5592,-2.45685 1.4647,-2.45685 1.4647,-2.45685 l 10.8668,0.18899 -1.1339,2.17336 z"
+       id="path5964-1-8-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -340.73264,600.43658 c 1.1258,-2.58281 1.1258,-2.58281 1.1258,-2.58281 l 10.9613,0.18899 -0.7282,2.39382 z"
+       id="path5966-9-7-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-447.83853"
+       y="584.00934"
+       id="text5972-47-1-1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-8-7-7"
+         x="-447.83853"
+         y="584.00934"
+         style="fill:#ff0000;stroke-width:0.26458332">L1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-346.19379"
+       y="583.52026"
+       id="text5972-4-4-2-5"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-7-50-7-9"
+         x="-346.19379"
+         y="583.52026"
+         style="fill:#ff0000;stroke-width:0.26458332">L2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-401.14807"
+       y="612.58075"
+       id="text5972-4-6-3-2-6"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-7-5-6-2-2"
+         x="-401.14807"
+         y="612.58075"
+         style="fill:#ff0000;stroke-width:0.26458332">L3</tspan></text>
+    <rect
+       ry="0.0092176422"
+       y="602.55688"
+       x="-463.83426"
+       height="0.018435284"
+       width="141.13203"
+       id="rect695-69-1-6-1"
+       style="fill:#fc0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.28411311;stroke-opacity:1"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -463.08025,600.94775 c -3.4452,2.45083 -3.4452,2.45083 -3.4452,2.45083"
+       id="path6025-0-1-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -321.53314,600.94775 c -1.5013,3.95248 -1.5013,3.95248 -1.5013,3.95248"
+       id="path6025-3-6-0-8"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-2.3708103"
+       inkscape:transform-center-y="0.99338741"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-442.6796"
+       y="627.74817"
+       id="text6202-6-0-6-5"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan6200-8-6-1-7"
+         x="-442.6796"
+         y="627.74817"
+         style="fill:#ff0000;stroke-width:0.26458332">Ultrasonic Sensor</tspan></text>
+    <g
+       transform="translate(-7.4839336,244.24917)"
+       id="g5056-5-4">
+      <g
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         transform="translate(-437.41195,220.35835)"
+         id="g1866-6-9-1">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-7-1-4-8"
+           cx="20.798183"
+           cy="121.74123"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-9-8-9-5"
+           cx="22.669075"
+           cy="121.87485"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-7-0-9"
+           cx="30.602362"
+           cy="119.53303"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-1-9-9-7"
+           cx="30.468725"
+           cy="124.61115"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-2-1-5"
+           cx="38.947674"
+           cy="122.62008"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-0-7-3"
+           cx="40.818565"
+           cy="122.75369"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1855-23-7-8"
+           width="6.9274302"
+           height="2.6272285"
+           x="26.080357"
+           y="116.70535"
+           ry="0.019897461" />
+        <rect
+           style="fill:#ffffff;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1832-7-1-8"
+           width="7.7485118"
+           height="3.2127976"
+           x="23.808565"
+           y="114.29436"
+           ry="0.019897461" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1837-5-1-3"
+           cx="27.304842"
+           cy="116.08976"
+           rx="0.66145831"
+           ry="0.8504464" />
+      </g>
+      <rect
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         y="331.86566"
+         x="-423.13464"
+         height="19.404955"
+         width="30.725245"
+         id="rect6136-32-5-1"
+         style="fill:none;fill-opacity:1;stroke:#2cff00;stroke-width:1.00534201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         id="text1933-1-9-8"
+         y="331.18359"
+         x="-392.50354"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#00ff00;stroke-width:0.26458332"
+           y="331.18359"
+           x="-392.50354"
+           id="tspan1931-5-7-9"
+           sodipodi:role="line">id:1</tspan></text>
+    </g>
+    <g
+       id="g4988-7-6"
+       transform="translate(-66.931659,329.14915)">
+      <g
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         transform="translate(-326.65793,134.66139)"
+         id="g1866-2-5-6-4">
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-7-0-4-7-3"
+           cx="20.798183"
+           cy="121.74123"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-9-2-7-3-3"
+           cx="22.669075"
+           cy="121.87485"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-3-6-6-3"
+           cx="30.602362"
+           cy="119.53303"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#cccccc;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1780-1-7-5-5-8"
+           cx="30.468725"
+           cy="124.61115"
+           rx="11.091685"
+           ry="1.3363476" />
+        <ellipse
+           style="fill:#000000;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-5-6-6-6"
+           cx="38.947674"
+           cy="122.62008"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <ellipse
+           style="fill:#ffe600;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1778-8-92-9-3-0"
+           cx="40.818565"
+           cy="122.75369"
+           rx="2.9399648"
+           ry="5.4790254" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1855-2-3-9-4"
+           width="6.9274302"
+           height="2.6272285"
+           x="26.080357"
+           y="116.70535"
+           ry="0.019897461" />
+        <rect
+           style="fill:#ffffff;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="rect1832-8-7-4-8"
+           width="7.7485118"
+           height="3.2127976"
+           x="23.808565"
+           y="114.29436"
+           ry="0.019897461" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:#f90000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path1837-9-4-8-8"
+           cx="27.304842"
+           cy="116.08976"
+           rx="0.66145831"
+           ry="0.8504464" />
+      </g>
+      <text
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         id="text1956-5-1-8"
+         y="244.58311"
+         x="-282.21646"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#00ff00;stroke-width:0.26458332"
+           y="244.58311"
+           x="-282.21646"
+           id="tspan1954-2-2-9"
+           sodipodi:role="line">id:2</tspan></text>
+      <rect
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         y="245.29805"
+         x="-309.97784"
+         height="19.456709"
+         width="27.569765"
+         id="rect6136-3-5-9-7"
+         style="fill:none;fill-opacity:1;stroke:#2cff00;stroke-width:0.95358866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(-0.64955054,0,0,1,-623.33394,0.18138035)"
+       id="g5563-3">
+      <rect
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:0.37368608;stroke-opacity:1"
+         id="rect714-60-4-1-0"
+         width="38.119255"
+         height="0.4009043"
+         x="-429.59656"
+         y="606.64929"
+         ry="0.019897461"
+         transform="rotate(2.6555722)"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-ydpi="95.400002" />
+      <rect
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         transform="matrix(0.9989261,-0.04633189,-0.04633189,-0.9989261,0,0)"
+         ry="0.019897461"
+         y="-568.20557"
+         x="-484.09573"
+         height="0.4009043"
+         width="38.119255"
+         id="rect714-6-6-9-5-3"
+         style="fill:#ff0000;stroke:#ff0d00;stroke-width:0.37368608;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5672">
+      <rect
+         y="553.26776"
+         x="-430.96841"
+         height="10.394345"
+         width="1.1339285"
+         id="rect5588"
+         style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.00000634;stroke-miterlimit:4;stroke-dasharray:0.00000634, 0.00002537;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="557.84125"
+         x="-428.24701"
+         height="1.3229154"
+         width="78.997032"
+         id="rect5590"
+         style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.00000744;stroke-miterlimit:4;stroke-dasharray:0.00000744, 0.00002977;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="552.98431"
+         x="-348.11609"
+         height="10.394345"
+         width="1.1339285"
+         id="rect5588-0"
+         style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.00000634;stroke-miterlimit:4;stroke-dasharray:0.00000634, 0.00002537;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-394.21146"
+       y="549.18286"
+       id="text5972-4-6-3-2-6-9"
+       inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+       inkscape:export-xdpi="95.400002"
+       inkscape:export-ydpi="95.400002"><tspan
+         sodipodi:role="line"
+         id="tspan5970-7-5-6-2-2-2"
+         x="-394.21146"
+         y="549.18286"
+         style="fill:#ff0000;stroke-width:0.26458332"><tspan
+   style="fill:#0000ff"
+   id="tspan5625">L4</tspan> &gt;L3 - L1 - L2</tspan></text>
+    <g
+       id="g5726"
+       transform="translate(-28.846372,-120.54803)">
+      <text
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         id="text5972-4-6-3-2-6-9-5"
+         y="435.90204"
+         x="-386.28757"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#0000ff;stroke-width:0.26458332"
+           y="435.90204"
+           x="-386.28757"
+           id="tspan5970-7-5-6-2-2-2-4"
+           sodipodi:role="line">L4 <tspan
+   id="tspan5708"
+   style="fill:#00ff00">=</tspan> <tspan
+   id="tspan5706"
+   style="fill:#00ff00">L_car</tspan></tspan></text>
+      <g
+         transform="matrix(1.3349611,0,0,0.99999991,172.1817,-76.370725)"
+         id="g5704">
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.00000634;stroke-miterlimit:4;stroke-dasharray:0.00000634, 0.00002537;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5588-9"
+           width="1.1339285"
+           height="10.394345"
+           x="-425.07199"
+           y="516.27344" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.00000336;stroke-miterlimit:4;stroke-dasharray:0.00000336, 0.00001342;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5590-2"
+           width="16.064001"
+           height="1.3229195"
+           x="-422.35059"
+           y="520.84692" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.00000634;stroke-miterlimit:4;stroke-dasharray:0.00000634, 0.00002537;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5588-0-2"
+           width="1.1339285"
+           height="10.394345"
+           x="-404.66229"
+           y="515.98999" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5710"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion5712"><rect
+           id="rect5714"
+           width="275.77164"
+           height="48.487324"
+           x="-1471.7922"
+           y="1604.3624" /></flowRegion><flowPara
+         id="flowPara5716"></flowPara></flowRoot>    <g
+       transform="translate(-4.946413,2.6182034)"
+       id="g5726-4">
+      <text
+         inkscape:export-ydpi="95.400002"
+         inkscape:export-xdpi="95.400002"
+         inkscape:export-filename="/home/lucas/ssd2/ifsc/portal/image/first_concept.png"
+         id="text5972-4-6-3-2-6-9-5-7"
+         y="435.90204"
+         x="-386.28757"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="fill:#0000ff;stroke-width:0.26458332"
+           y="435.90204"
+           x="-386.28757"
+           id="tspan5970-7-5-6-2-2-2-4-7"
+           sodipodi:role="line">L4 <tspan
+   id="tspan5708-5"
+   style="fill:#00ff00">=</tspan><tspan
+   id="tspan5706-4"
+   style="fill:#00ff00">L_car</tspan></tspan></text>
+      <g
+         transform="matrix(1.3349611,0,0,0.99999991,172.1817,-76.370725)"
+         id="g5704-8">
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.00000634;stroke-miterlimit:4;stroke-dasharray:0.00000634, 0.00002537;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5588-9-1"
+           width="1.1339285"
+           height="10.394345"
+           x="-425.07199"
+           y="516.27344" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.00000336;stroke-miterlimit:4;stroke-dasharray:0.00000336, 0.00001342;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5590-2-2"
+           width="16.064001"
+           height="1.3229195"
+           x="-422.35059"
+           y="520.84692" />
+        <rect
+           style="fill:#0000ff;fill-opacity:1;stroke:#00ff00;stroke-width:0.00000634;stroke-miterlimit:4;stroke-dasharray:0.00000634, 0.00002537;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5588-0-2-8"
+           width="1.1339285"
+           height="10.394345"
+           x="-404.66229"
+           y="515.98999" />
+      </g>
+    </g>
   </g>
 </svg>
