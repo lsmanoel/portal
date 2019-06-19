@@ -8,4 +8,4 @@
 
 ![](https://raw.githubusercontent.com/lsmanoel/portal/master/image/car_2_win.png)
 
-![](https://raw.githubusercontent.com/lsmanoel/portal/master/image/tie.png)
+![](https://raw.githubusercontent.com/lsmanoel/portal/master/image/tied.png)
