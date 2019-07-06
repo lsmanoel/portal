@@ -22,6 +22,7 @@ As funções que devem ser chamadas na main (código do reconhecimento de imagem
 
 Foi criada uma classe Car, para que sejam instanciados todos os competidores.
 Cada objeto armazena:
+
     - Seu id;
     - Número de voltas percorridas;
     - Buffer com os tempos das voltas;
