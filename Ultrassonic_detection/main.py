@@ -17,7 +17,7 @@ lastState = False
 try:
     while laps > 0:
         state = False
-        if isCrossed(baseLen,carLen) !=0:
+        if lineCrossed(baseLen,carLen) !=0:
             state = True
             lastState = True
         elif state == False and lastState == True:
