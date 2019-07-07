@@ -50,6 +50,7 @@
 
 # preparar SD Card ----
 # ---------------------
+```BASH
 	# remover todas as partições existentes
 	# criar 2 novas partições: boot, rootfs
 	# boot: 50MB, Fat32
@@ -63,21 +64,28 @@
 
 # mover arq. p/ SD Card
 # ---------------------
+```
 boot:
-	tar -C /media/jonas/boot -zxf rootfs.tar.gz
+```BASH
+	tar -C /media/$USER/BOOT -zxf boot.tar.gz
+```
 rootfs:
-	tar -C /media/jonas/root -zxf rootfs.tar.gz
-
+```BASH
+	tar -C /media/$USER/_rootfs -zxf rootfs.tar.gz
+```
 # dhcpcd
 # ---------------------
+```BASH
 nano /etc/dhcpcd.conf
-
+```
 # dnsmasq
 # ---------------------
+```BASH
 nano /etc/dnsmasq.conf
-
+```
 # hostapd
 # ---------------------
+```BASH
 nano /etc/hostapd.conf
 	interface=wlan0
 	driver=nl80211
@@ -95,7 +103,8 @@ nano /etc/hostapd.conf
 	ignore_broadcast_ssid=0
 	macaddr_acl=0
 	auth_algs=1
-
+```
+```BASH
 # config. interfaces
 nano /etc/network/interfaces 
 	auto lo
@@ -109,7 +118,8 @@ nano /etc/network/interfaces
 		address
 		broadcast 
 		gateway 
-
+```
+```BASH
 # controle de servico
 /etc/init.d/S40network	# ja vem feito
 /etc/init.d/S41dhcpd	# ja vem feito
@@ -117,8 +127,8 @@ nano /etc/network/interfaces
 /etc/init.d/S50mosquito	# ja vem feito
 /etc/init.d/S80dnsmasq	# ja vem feito
 
-/etc/init.d/S42hostapd 	# criqar
-/etc/init.d/S99iptable	# criqar
+/etc/init.d/S42hostapd 	# criar
+/etc/init.d/S99iptable	# criar
 
 # controle do hostapd
 nano /etc/init.d/S42hostapd
@@ -156,15 +166,19 @@ nano /etc/init.d/S42hostapd
 	exit $?
 chmod +x /etc/init.d/S42hostapd # tornar executavel
 	# ...
-
+```
+```BASH
 # controle das rotas
 nano /etc/init.d/S99iptable
 	# ...
 
 chmod +x /etc/init.d/S99iptable # tornar executavel
-
+```
+```BASH
 # reiniciar
 reboot
-
+```
+```BASH
 # deligar
 poweroff
+```

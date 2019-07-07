@@ -11,7 +11,7 @@ landmarks_path = os.path.join(dataset_folder_path, "landmarks.dat")
 detector = dlib.fhog_object_detector(svn_path)
 landmarks_detector = dlib.shape_predictor(landmarks_path)
 
-capture = cv2.VideoCapture(0)
+capture = cv2.VideoCapture(1)
 
 def printLandmark(image, landmarks, color):    
     for p in landmarks.parts():
