@@ -26,7 +26,8 @@ class Car:
         self.data["lap_times"] = self.lapsTimes
         
         # para enviar o arquivo por mqtt
-        with open("data_file.json", "w") as write_file:
+        file = "car"+str(self.id)+"_data_file.json"
+        with open(file, "w") as write_file:
             json.dump(self.data, write_file)
         print("Car%d Times: "%self.id)
         print(self.data["lap_times"])
