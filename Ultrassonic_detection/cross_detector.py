@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 import RPi.GPIO as GPIO
 import time
  
@@ -58,7 +59,7 @@ def lineCrossed(baseLen,carLen):
     # checkCross2 = baseLen - dist2
     # totlen = baseLen - (checkCross1 + checkCross2)
 
-    if distance1() < baseLen:       # passou alguma coisa
+    if distance1() < baseLen-2:       # passou alguma coisa
         # if totLen > carLen*1.2:     # passou mais de 1 carro (carLen*1.2 -> margem para variação)
         #     return 2
         # else:
@@ -75,7 +76,7 @@ def calibrate():
     for i in range(1,10):
         acc = acc + distance1()
 
-    return acc/i    
+    return acc/i     
 
 
 
