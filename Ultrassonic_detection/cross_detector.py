@@ -72,7 +72,7 @@ def lineCrossed(baseLen,carLen):
 def calibrate():
     acc = 0
 
-    for i in range(1,10)
+    for i in range(1,10):
         acc = acc + distance1()
 
     return acc/i    
