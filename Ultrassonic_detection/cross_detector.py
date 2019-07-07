@@ -53,15 +53,15 @@ def distance2():
 
 def lineCrossed(baseLen,carLen):
     dist1 = distance1()             # chama cada utrassom em sequência
-    dist2 = distance2()
-    checkCross1 = baseLen - dist1
-    checkCross2 = baseLen - dist2
-    totlen = baseLen - (checkCross1 + checkCross2)
+    # dist2 = distance2()           # comentado p/ teste só com 1 ultrassom
+    # checkCross1 = baseLen - dist1
+    # checkCross2 = baseLen - dist2
+    # totlen = baseLen - (checkCross1 + checkCross2)
 
     if distance1() < baseLen:       # passou alguma coisa
-        if totLen > carLen*1.1:     # passou mais de 1 carro (carLen*1.2 -> margem para variação)
-            return 2
-        else:
+        # if totLen > carLen*1.2:     # passou mais de 1 carro (carLen*1.2 -> margem para variação)
+        #     return 2
+        # else:
             return 1
     else:
         return 0

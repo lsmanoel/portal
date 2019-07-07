@@ -11,8 +11,9 @@ class Car:
         self.data = {"id":"","lap":"","position":"","lap_times":""}
         self.data["id"] = id
 
-    def start():
+    def start(self):
         self.timer = time.time()
+        print("Car%d started!"%self.id)
 
     def lapIncrement(self,position):
         timeCounter =  time.time() - self.timer 
@@ -27,6 +28,8 @@ class Car:
         # para enviar o arquivo por mqtt
         with open("data_file.json", "w") as write_file:
             json.dump(self.data, write_file)
+        print("Car%d Times: "%self.id)
+        print(self.data["lap_times"])
 
     
 
