@@ -1,7 +1,7 @@
 # Dlib - Detecção do Robo
 
 Uma possível e simples solução para o reconhecimento da posição do robo na imagem oriunda da webcam é o algorítimo SVM (Support Vector Machine). 
-É necessário duas etapas, etapa de treinamento e operação, para que o sistema de detecção possa funcionar:
+Logo para a utilização desse algorítimo é necessário duas etapas, etapa de treinamento e etapa de operação.
 
 ### Treinamento:
 
@@ -86,9 +86,11 @@ Com o script [detector_test.py](https://github.com/lsmanoel/portal/blob/master/o
 
 Para manipular a Webcam foi utilizado o OpenCV, uma vez que essa biblioteca fornece uma boa integração com os drivers do pacote [Video4Linux](https://www.kernel.org/doc/html/latest/media/v4l-drivers/index.html).
 
-Com o script [webcam_example_1.py](./webcam_example_1.py) é possível testar o OpenCV e funcionamento da Webcam
+Com o script [webcam_example_1.py](./webcam_example_1.py) é possível testar o OpenCV e funcionamento da Webcam e seu respectivo driver.
 
 ### Detector:
+
+O script [detector.py](./detector.py) é composto de uma estrutura de laço fechado (while 1) com um comando de trigger disparado pela tecla Enter. A ideia é posteriormente associar esse sistema de trigger ao sistema de ultrasom. Logo quando o trigger for acionando pelo ultrasom, uma imagem é capturada pela Webcam e a detecção é efetuada em cima dessa imagem. Dessa forma é evitado processamento de imagens quando nenhum carro estiver cruzando a linha de chegada.
 
 ```python 
 import os
