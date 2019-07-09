@@ -2,25 +2,25 @@
 import RPi.GPIO as GPIO
 import time
 from Car import Car
-import cross_detector as cd 
-import os
-import sys
-import cv2
-import dlib
+# import cross_detector as cd 
+# import os
+# import sys
+# import cv2
+# import dlib
 
 
-dataset_folder_path = "./objectSense/dataset/2019-06-26/lowsize/"
-svn_path = os.path.join(dataset_folder_path, "detector.svm")
-landmarks_path = os.path.join(dataset_folder_path, "landmarks.dat")
-detector = dlib.fhog_object_detector(svn_path)
-landmarks_detector = dlib.shape_predictor(landmarks_path)
-capture = cv2.VideoCapture(0)
+# dataset_folder_path = "./objectSense/dataset/2019-06-26/lowsize/"
+# svn_path = os.path.join(dataset_folder_path, "detector.svm")
+# landmarks_path = os.path.join(dataset_folder_path, "landmarks.dat")
+# detector = dlib.fhog_object_detector(svn_path)
+# landmarks_detector = dlib.shape_predictor(landmarks_path)
+# capture = cv2.VideoCapture(0)
 
 # Imprime a seleção do objeto =======================================
 
 def printLandmark(image, landmarks, color):    
-    for p in landmarks.parts():
-        cv2.circle(image, (p.x, p.y), 20, color, 2)
+    # for p in landmarks.parts():
+    #     cv2.circle(image, (p.x, p.y), 20, color, 2)
     pass
 
 # Detecta a imagem ===================================================
@@ -113,17 +113,17 @@ try:
     while laps > 0:
         state = False
         if cd.lineCrossed(baseLen,carLen) !=0:            # está medindo a passagem
-            ret, frame = capture.read()
-        [conf,detId] = getImageDetect(ret,frame)               # chama a captura de video, (poderia ser em multithread)
+            # ret, frame = capture.read()
+            # [conf,detId] = getImageDetect(ret,frame)               # chama a captura de video, (poderia ser em multithread)
             state = True
             lastState = True
         elif state == False and lastState == True:        # terminou de medir a passagem
-            capture.release()
-            cv2.destroyAllWindows()         
+            # capture.release()
+            # cv2.destroyAllWindows()         
             lastState = False
             laps = raceStatus(cars,laps,conf,detId)       # atualiza o status da corrida    
             print("Voltas faltando: %d"%laps)
-    time.sleep(0.03)    
+        time.sleep(0.03)    
     print("Finish!!")
     buzzer(2)
     GPIO.cleanup()                                        # limpa o buffer do gpio
