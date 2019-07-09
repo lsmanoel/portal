@@ -17,7 +17,7 @@ class Car:
         print("Car%d started!"%self.id)
 
     def lapIncrement(self,position):
-        timeCounter =  time.time() - self.timer 
+        timeCounter = round(time.time() - self.timer,2) 
         self.lapsTimes.append(timeCounter)
         self.timer = time.time()
         self.position.append(position)
