@@ -9,31 +9,28 @@ import cv2
 import dlib
 
 
-# dataset_folder_path = "./objectSense/dataset/2019-06-26/lowsize/"
-# svn_path = os.path.join(dataset_folder_path, "detector.svm")
-# landmarks_path = os.path.join(dataset_folder_path, "landmarks.dat")
-# detector = dlib.fhog_object_detector(svn_path)
-# landmarks_detector = dlib.shape_predictor(landmarks_path)
-# capture = cv2.VideoCapture(0)
+dataset_folder_path = "./objectSense/dataset/2019-06-26/lowsize/"
+svn_path = os.path.join(dataset_folder_path, "detector.svm")
+landmarks_path = os.path.join(dataset_folder_path, "landmarks.dat")
+detector = dlib.fhog_object_detector(svn_path)
+landmarks_detector = dlib.shape_predictor(landmarks_path)
+capture = cv2.VideoCapture(0)
 
 # Imprime a seleção do objeto =======================================
 
 def printLandmark(image, landmarks, color):    
-    # for p in landmarks.parts():
-    #     cv2.circle(image, (p.x, p.y), 20, color, 2)
+    for p in landmarks.parts():
+        cv2.circle(image, (p.x, p.y), 20, color, 2)
     pass
 
 # Detecta a imagem ===================================================
-def getImageDetect():
-    # while 1:
-        # ret, frame = capture.read()               # captura frame da camera
-
-        # frame = open("./objectSense/dataset/2019-06-26/IMG_20190626_083033644.jpg")  # frame da imagem, teste
-        # [boxes, confidences, detector_idxs]  = dlib.fhog_object_detector.run(detector, 
-        #                                                                     frame, 
-        #                                                                     upsample_num_times=1, 
-        #                                                                     adjust_threshold=0.0) 
-        # print("Got frame.   Conf:%0.2f      Id:%d"%(confidences,detector_idxs))                 
+def getImageDetect(ret,frame):
+   # frame = open("./objectSense/dataset/2019-06-26/IMG_20190626_083033644.jpg")  # frame da imagem, teste
+#    [boxes, confidences, detector_idxs]  = dlib.fhog_object_detector.run(detector, 
+#                                                                          frame, 
+#                                                                          upsample_num_times=1, 
+#                                                                          adjust_threshold=0.0) 
+   #  print("Got frame.   Conf:%0.2f      Id:%d"%(confidences,detector_idxs))                 
 
         # for box in boxes:
         #     e, t, d, b = (int(box.left()), 
@@ -48,19 +45,7 @@ def getImageDetect():
 
         # cv2.imshow("Video", frame)
 
-        # # -------------------------------------------------
-        # # Esc -> EXIT while
-        # while 1:
-        # k = cv2.waitKey(1) & 0xff
-        # if k ==13 or k==27:
-        #     break
-
-        # if k == 27:
-        #     break
-        # # -------------------------------------------------
-    # capture.release()
-    # cv2.destroyAllWindows()
-    # return confidences, detector_idxs
+    # return [confidences, detector_idxs]
     return [0.8, 2] #debug
 
 # Inicializa todos os competidores ==========================
@@ -115,7 +100,7 @@ laps = 1
 laps = int(input("Número de voltas: "))
 carLen = input("Larguda do carro: ")
 cars = loginCars()
-baseLen = cd.calibrate()-2
+baseLen = cd.calibrate()
 start = raw_input("Aperte <enter> para iniciar a corrida ...")
 startCars(cars)
 buzzer(0)
@@ -128,14 +113,17 @@ try:
     while laps > 0:
         state = False
         if cd.lineCrossed(baseLen,carLen) !=0:            # está medindo a passagem
-            [conf,detId] = getImageDetect()               # chama a captura de video, (poderia ser em multithread)
+            ret, frame = capture.read()
+	    [conf,detId] = getImageDetect(ret,frame)               # chama a captura de video, (poderia ser em multithread)
             state = True
             lastState = True
         elif state == False and lastState == True:        # terminou de medir a passagem
+            capture.release()
+            cv2.destroyAllWindows()         
             lastState = False
-            print("Voltas faltando: %d"%laps)
             laps = raceStatus(cars,laps,conf,detId)       # atualiza o status da corrida    
-        time.sleep(0.03)    
+            print("Voltas faltando: %d"%laps)
+	time.sleep(0.03)    
     print("Finish!!")
     buzzer(2)
     GPIO.cleanup()                                        # limpa o buffer do gpio
