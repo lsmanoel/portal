@@ -2,7 +2,7 @@
 import RPi.GPIO as GPIO
 import time
 from Car import Car
-from ultrassonicCross import cross_detector as cd 
+import cross_detector as cd 
 import os
 import sys
 import cv2
