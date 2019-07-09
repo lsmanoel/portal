@@ -113,14 +113,16 @@ def buzzer(state):
 # Inicia o programa =========================================
 laps = 1
 laps = int(input("Número de voltas: "))
-# carLen = input("Larguda do carro: ")
+carLen = input("Larguda do carro: ")
 cars = loginCars()
-baseLen = cd.calibrate()-1
-start = input("Aperte enter para iniciar a corrida... ")
+baseLen = cd.calibrate()-2
+start = raw_input("Aperte <enter> para iniciar a corrida ...")
 startCars(cars)
 buzzer(0)
 conf = 0
 detId = 0
+state = False
+lastState = False
 
 try:
     while laps > 0:
