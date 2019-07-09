@@ -114,7 +114,7 @@ try:
         state = False
         if cd.lineCrossed(baseLen,carLen) !=0:            # está medindo a passagem
             ret, frame = capture.read()
-	    [conf,detId] = getImageDetect(ret,frame)               # chama a captura de video, (poderia ser em multithread)
+        [conf,detId] = getImageDetect(ret,frame)               # chama a captura de video, (poderia ser em multithread)
             state = True
             lastState = True
         elif state == False and lastState == True:        # terminou de medir a passagem
@@ -123,7 +123,7 @@ try:
             lastState = False
             laps = raceStatus(cars,laps,conf,detId)       # atualiza o status da corrida    
             print("Voltas faltando: %d"%laps)
-	time.sleep(0.03)    
+    time.sleep(0.03)    
     print("Finish!!")
     buzzer(2)
     GPIO.cleanup()                                        # limpa o buffer do gpio
