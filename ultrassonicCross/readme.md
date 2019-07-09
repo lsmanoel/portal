@@ -1,8 +1,5 @@
 # Detecção de passagem por ultrassom
 
-Obs: arquivo main.py é apenas pra teste, não é pra usar no projeto. Os arquivos criados devem ser 
-adaptados ao projeto, no escopo junto com a detecção de imagem.
-
 ## Detecção de passagem
 
 Para a detecção da passagem de algum competidor pela linha de largada/chegada, 

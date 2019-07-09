@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import time
 import json
 
@@ -14,23 +13,24 @@ class Car:
 
     def start(self):
         self.timer = time.time()
-        print("Car%d iniciou."%self.id)
+        print("Car%d started!"%self.id)
 
     def lapIncrement(self,position):
         timeCounter =  time.time() - self.timer 
-        self.lapsTimes.append(round(timeCounter,2))
+        self.lapsTimes.append(timeCounter)
         self.timer = time.time()
         self.position.append(position)
         self.laps = self.laps + 1
         self.data["lap"] = self.laps
-        self.data["position"] = self.position
+        self.data["position"] = position
         self.data["lap_times"] = self.lapsTimes
         
         # para enviar o arquivo por mqtt
         file = "car"+str(self.id)+"_data_file.json"
         with open(file, "w") as write_file:
             json.dump(self.data, write_file)
-        print("Tempo Car%d: %0.2f"%(self.id,timeCounter))
+        # print("Car%d Times: "%self.id)
+        # print(self.data["lap_times"])
 
     
 
