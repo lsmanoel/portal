@@ -5,7 +5,7 @@ Logo para a utilização desse algorítimo é necessário duas etapas, etapa de 
 
 ### Treinamento:
 
-Devido a demanda processamento, essa etapa é executada no PC. O algorítimo de treinamento necessita ser alimentado por um dataset de imagens junto a um arquivo XML que contém as marcações de cada imagem do que é pertinente para o algorítimo de treinamento. Para a geração do arquivo XML existe a ferramenta [ImgLab](https://lpae.github.io/estudos/ObjectSensing/ImgLab/). 
+Devido a demanda processamento, essa etapa é executada no PC. O algorítimo de treinamento necessita ser alimentado por um dataset de imagens junto a um arquivo XML que contém as marcações de cada imagem do que é pertinente para o algorítimo de treinamento. Para a geração do arquivo XML existe a ferramenta [ImgLab](https://imglab.ml/). 
 
 Quando as imagens que compoem o dataset possuem uma resolução demasiadamente alta, isso pode afetar o desempenho do ImgLab e do algorítimo de treinamento. Para resolver esse problema o script python [downsize.py](https://github.com/lsmanoel/portal/blob/master/objectSense/dataset/2019-06-26/python_aux/downsize.py), por meio do método da biblioteca OpenCV [cv2.resize()](https://docs.opencv.org/2.4/modules/imgproc/doc/geometric_transformations.html?highlight=resize#cv2.resize) foi feito para diminuir a resolução de um determinado dataset. 
 
